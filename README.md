@@ -6,6 +6,12 @@
 
 ### 🌟 You've successfully completed the exercise! 🌟
 
+---
+
+# <span style="color: #FF6B6B; font-size: 2em;">✨ **You are born to succeed!** ✨</span>
+
+---
+
 ## 🚀 Share Your Success!
 
 **Show off your new skills and inspire others!**
