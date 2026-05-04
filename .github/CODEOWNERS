@@ -1,0 +1,28 @@
+# CODEOWNERS
+# Each line is a file pattern followed by one or more owners.
+# Owners can be GitHub usernames, team names (@org/team), or email addresses.
+# The LAST matching pattern takes precedence.
+
+# ---------------------------------------------------------------
+# Default owner for everything in the repo.
+# Unless a more specific rule below matches, @avinashkr141 will
+# be requested as a reviewer on every pull request.
+# ---------------------------------------------------------------
+*   @avinashkr141
+
+# ---------------------------------------------------------------
+# Frontend / HTML files
+# ---------------------------------------------------------------
+*.html  @avinashkr141
+
+# ---------------------------------------------------------------
+# Security policy — the security lead must review any changes
+# to SECURITY.md to prevent accidental weakening of policy.
+# ---------------------------------------------------------------
+SECURITY.md     @avinashkr141
+
+# ---------------------------------------------------------------
+# GitHub config files (.github/ directory)
+# Anyone changing CI, workflows, or repo settings needs approval.
+# ---------------------------------------------------------------
+.github/    @avinashkr141
